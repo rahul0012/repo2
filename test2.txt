@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 7AB8-199A
+
+ Directory of C:\Users\Ranjith\Desktop\New folder (2)
+
+12-09-2017  10:48    <DIR>          .
+12-09-2017  10:48    <DIR>          ..
+12-09-2017  10:48                 0 test2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  107,699,712,000 bytes free
